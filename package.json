@@ -1,0 +1,23 @@
+{
+  "name": "warrior",
+  "version": "0.1.0",
+  "description": "My soultions to the warriorjs ai game",
+  "main": "./odysseus-intermediate/Player.js",
+  "scripts": {
+    "start": "warriorjs",
+    "test": "warriorjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agconti/warriorjs.git"
+  },
+  "author": "Andrew Conti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agconti/warriorjs/issues"
+  },
+  "homepage": "https://github.com/agconti/warriorjs#readme",
+  "dependencies": {
+    "warriorjs": "^3.0.0"
+  }
+}
